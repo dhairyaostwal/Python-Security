@@ -26,3 +26,32 @@ Message = 'Dhairya Rockstar'
     1. `digest()` : Encrypt in byte format
     2. `hexdigest()` : Encrypt in hexadecimal format. More secured than `digest()`
 
+## ✅ SHA
+
+* Different types `SHA` 
+* **Increasing complexities** -> `sha1` <  `sha256` < `sha512`
+
+<img src = "assets/1.png">
+
+## ✅ Blocksize & Digestsize
+
+`block_size` and `digest_size` functions
+
+## ✅ Shake Algo.
+
+* **Important** to specify `.digest(value)`
+
+## ✅ Salting
+
+* Done so as to avoid brute force crack and done to provide **more security**
+
+## ✅ RIPEMD_160
+
+
+**Star the repo ⭐️ if you like 😄**
+
+## Before you leave 🥺
+
+Let's connect on 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhairyaostwal/) [![Instagram](https://img.shields.io/badge/Instagram-Follow-purple.svg?logo=instagram&logoColor=white)](https://www.instagram.com/dhairyaostwal/) [![Medium](https://img.shields.io/badge/Medium-Follow-black.svg?logo=medium&logoColor=white)](https://medium.com/@dhairyaostwal)
